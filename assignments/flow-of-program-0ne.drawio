@@ -1,1 +1,79 @@
-<mxfile host="www.draw.io" modified="2023-02-13T15:07:16.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="b3VcUtr9LT8_NYx6i3On" version="20.8.20" type="device"><diagram name="Page-1" id="BnJQXDbmKseUKs7_xTsc">1VnbcpswEP0aP7aDuNj0MTe30+klU6fT5lEBGegIxAgRm359JSNuEomxTYz7YI92EYvYc3RWEjPrJt5+pDANvxIf4Zlp+NuZdTszzYW94P/CUZQOeyEdAY380gUaxyr6i6TTkN488lHW6cgIwSxKu06PJAnyWMcHKSWbbrc1wd2npjBAmmPlQax7f0U+C0uv6xiN/xOKgrB6MjDklRhWnaUjC6FPNi2XdTezbighrGzF2xuERe6qvJT3LV+4Wg+MooQNucGyw+v11Wd89WB74U/y3XWKh3cyyjPEuXzhFYOUyRGzokoDD8Uzzo3rTRgxtEqhJ65sOObcF7IYcwvwpoyHKEPbFwcK6tfntEEkRowWvIu8wZzLjBV1Tkt70wBQpzlsJb8CBUrMgzp0kxbekJk5IEuWliU9QYl/JejGLQ/DLIu8bl4oyRMfiYcY3FqThC1hHGHxig9RzBluGt/Qhv//IDFMeBe0jdhv0f29I61HGUq0b7cy0s4opJEJ7KphJCRBNSDI12iuwMHfhuTUQ6+kwemHrQWL8woqFGHIoufuMPqgkk+4JxEfYM0Ka9FlRW1XIcrhy7va80ANBLqBNNrwJAaIaYF2zKlf+3gyzQ8ik0Tx3EwakTWVau+yerHsUkgB5v8puxyNXXcJQ3RmzmEspDp5ytIdvgYLEf9/RJDOrKVGQV6tUtHkiEOMESYBhTG/MUWUk0xEVK7dNxf21Yh1tEVVqQfDODxGWXEUZIyesmL2UEylwmhlZaFhVQg0TMcWlpiI5hzzQVw/CfwC0ZIdRPnb08VudVGwpSGJn/JsAFDnAcZWlN3sAQb0AFMvAkZH5sMUBT/hI2/ptDAfK20WRqPUO+twqd4rwYtJJdhQ5ufREuwqgdxhEszhhEWrWyo6ZIcPuCFeGXFUfa/mQYuaD5S3zrYeBa01RLOiePNVxLTUVNeeKqOGUtM2lUDqIvaNVwdA3++RnKW5GGJZN4xIQA/5DyNeDiq3WkE67Dm9ioguKxm+GuIpJUXLsz11rQemlvklxNkZJ65xwMStaxHoVKKmMJ1ci4ZN+AE1C9hTKgOY75nQQ5UBuBMrgz1cGRLCJtCIEWTBuThV6Nuu+bomDD19m2YnZTs9eTzrAR047FBluhO6ZpE/mbBWM32/sk56IgOUgxRH3ewNVlYlkD1wOzCasurb/Avn5psV/QunnK3UYPtYymmBrDNTzh1AOY5XteSWh8yEspAEJIH4CyGpJMIfxFghD+tgzsiJxBxKllc54I4kMa4qMcfBrX6wGnjk+/J5w3A+cLP5glh2bz7DWnf/AA==</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="BnJQXDbmKseUKs7_xTsc">
+        <mxGraphModel dx="490" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="34hBfAJlAT4chUoO85yT-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="110" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="34hBfAJlAT4chUoO85yT-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="370" as="sourcePoint"/>
+                        <mxPoint x="310" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-6" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="34hBfAJlAT4chUoO85yT-1" target="34hBfAJlAT4chUoO85yT-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="160" as="sourcePoint"/>
+                        <mxPoint x="310" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-5" value="Enter&amp;nbsp; the Year?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-7" value="year%4==0&lt;br&gt;year%100==0&lt;br&gt;year%400==0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="320" width="110" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="34hBfAJlAT4chUoO85yT-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="260" as="sourcePoint"/>
+                        <mxPoint x="380" y="280" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="260"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-10" value="True" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="34hBfAJlAT4chUoO85yT-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="380" as="sourcePoint"/>
+                        <mxPoint x="420" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-11" value="output year is a leap year" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+                    <mxGeometry x="420" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-12" value="False" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="34hBfAJlAT4chUoO85yT-7" target="34hBfAJlAT4chUoO85yT-14" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="370" as="sourcePoint"/>
+                        <mxPoint x="180" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-14" value="output year is a not a leap year" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-15" value="End" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="450" width="100" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-16" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="34hBfAJlAT4chUoO85yT-14" target="34hBfAJlAT4chUoO85yT-15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="110" y="500" as="sourcePoint"/>
+                        <mxPoint x="110" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34hBfAJlAT4chUoO85yT-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="34hBfAJlAT4chUoO85yT-15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="400" as="sourcePoint"/>
+                        <mxPoint x="480" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1- input a year and find whether it is a leap year or not.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="30" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Start&lt;br&gt;input year&lt;br&gt;if year%4==0&lt;br&gt;year%100==0&lt;br&gt;year%400==0 :&lt;br&gt;Output &quot;the year is a leap year&quot;&lt;br&gt;else&amp;nbsp;&lt;br&gt;output &quot; the year is not a leap year&quot;&lt;br&gt;Exit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="110" width="260" height="180" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
